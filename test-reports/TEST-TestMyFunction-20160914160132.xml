@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite errors="0" failures="1" name="TestMyFunction-20160914152024" skipped="0" tests="2" time="0.001">
+<testsuite errors="0" failures="1" name="TestMyFunction-20160914160132" skipped="0" tests="2" time="0.001">
 	<testcase classname="TestMyFunction" name="test_first_element_Sucess" time="0.000"/>
 	<testcase classname="TestMyFunction" name="test_first_element" time="0.001">
 		<failure message="1 != 2" type="AssertionError">
