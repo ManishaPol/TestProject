@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="1" name="TestMyFunction-20160914141321" skipped="0" tests="1" time="0.001">
+	<testcase classname="TestMyFunction" name="test_first_element" time="0.001">
+		<failure message="1 != 2" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "C:\repos\mpol\TestProject\TestProject\test.py", line 7, in test_first_element
+    self.assertEqual(firstElement([1,2,3,4]), 2)
+AssertionError: 1 != 2
+]]>		</failure>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
