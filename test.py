@@ -1,3 +1,4 @@
+PYTHONPATH/to/the/test.py
 #!/usr/bin/env python\
 
 import unittest
