@@ -1,3 +1,3 @@
 SET PATH=%PATH%;%PYTHONPATH%
 
-python test.py
+python -m unittest discover 
